@@ -1,11 +1,10 @@
-
 # LLM Agent _ChatBox_ — Browser-Based Multi-Tool Reasoning
 
 This project is a **proof-of-concept (POC)** for building a **browser-based LLM agent** that can combine **natural language reasoning** with **external tools** like search engines, pipelined APIs, and even **live JavaScript execution**.  
 
 Modern LLM agents aren’t limited to text — they dynamically integrate multiple tools and loop until tasks are solved. This app demonstrates that idea with a **minimal, hackable UI + JavaScript agent core**.
 
-## ⚠️ WARNING: This is a raw version and some features may not work as desired.
+> ⚠️ WARNING: This is a raw version and some features may not work as desired.
 
 ---
 
