@@ -75,7 +75,7 @@ This POC reimplements the above loop in **browser JavaScript**, connected to pro
 
    ```bash
    git clone https://github.com/23f1002492/TDS-LLM-AGENT.git
-   cd tds-bonus-project-LLM-Agent
+   cd TDS-LLM-AGENT
    ```
 
 2. Open `index.html` in your browser.
